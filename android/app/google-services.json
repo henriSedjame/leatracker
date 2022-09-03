@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568708291256",
+    "project_id": "lea-tracker",
+    "storage_bucket": "lea-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568708291256:android:ae394614be353f9ba5724d",
+        "android_client_info": {
+          "package_name": "io.github.hsedjame.leatracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568708291256-5s5bv6ai0s46i04g6jai9q9lcofb9cb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyq0qqi8Bayw2UCFoHVsnzZtEYrmA21II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568708291256-5s5bv6ai0s46i04g6jai9q9lcofb9cb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
